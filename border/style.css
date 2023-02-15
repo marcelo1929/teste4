@@ -1,0 +1,21 @@
+body{
+    display: flex;
+}
+.vermelho{
+    width: 60px;
+    height: 60px;
+    margin: 2em;
+    background-color: red;
+}
+.azul{
+    width: 60px;
+    height: 60px;
+    margin: 2em;
+    background-color: blue;
+}
+.green{
+    width: 60px;
+    height: 60px;
+    margin: 2em;
+    background-color: green;
+}
